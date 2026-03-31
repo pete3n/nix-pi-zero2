@@ -1,10 +1,7 @@
 # nix-pi-zero2
 
 This repo contains [NixOS](https://nixos.org/manual/nixos/stable/) 
-[Flakes](https://nixos.wiki/wiki/Flakes) to build system images for the Raspberry Pi.
-
-The repo is organized into branches based on the target model Pi and the build platform.
-Currently it contains custom configs for the Pi Zero 2 W.
+[Flakes](https://nixos.wiki/wiki/Flakes) to build system images for the Raspberry Pi Zero2.
 
 * If you are building on an aarch64-linux system: [use the native branch](https://github.com/pete3n/nix-pi/tree/zero-2-w-native)
 
