@@ -1,4 +1,4 @@
-# nix-pi
+# nix-pi-zero2
 
 This repo contains [NixOS](https://nixos.org/manual/nixos/stable/) 
 [Flakes](https://nixos.wiki/wiki/Flakes) to build system images for the Raspberry Pi.
